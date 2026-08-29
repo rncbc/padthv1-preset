@@ -1,0 +1,215 @@
+<!DOCTYPE padthv1>
+<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Tank">
+ <samples>
+  <sample nh="46" index="0">
+   <items>
+    <item index="0">0.543478</item>
+    <item index="1">0.782609</item>
+    <item index="2">0.913043</item>
+    <item index="3">0.913043</item>
+    <item index="4">0.68</item>
+    <item index="5">0.582857</item>
+    <item index="6">0.457143</item>
+    <item index="7">0.428571</item>
+    <item index="8">0.377143</item>
+    <item index="9">0.314286</item>
+    <item index="10">0.211429</item>
+    <item index="11">0.12</item>
+    <item index="12">0</item>
+    <item index="13">0.0457143</item>
+    <item index="14">0</item>
+    <item index="15">0</item>
+    <item index="16">0</item>
+    <item index="17">0</item>
+    <item index="18">0</item>
+    <item index="19">0.0971429</item>
+    <item index="20">0</item>
+    <item index="21">0.0857143</item>
+    <item index="22">0.0628571</item>
+    <item index="23">0.00571429</item>
+    <item index="24">0.00571429</item>
+    <item index="25">0.0914286</item>
+    <item index="26">0.257143</item>
+    <item index="27">0.0685714</item>
+    <item index="28">0.0628571</item>
+    <item index="29">0.0742857</item>
+    <item index="30">0.194286</item>
+    <item index="31">0.474286</item>
+    <item index="32">0.0914286</item>
+    <item index="33">0.0457143</item>
+    <item index="34">0.0114286</item>
+    <item index="35">0</item>
+    <item index="36">0.0685714</item>
+    <item index="37">0</item>
+    <item index="38">0</item>
+    <item index="39">0.041675</item>
+    <item index="40">0.0243902</item>
+    <item index="41">0.0396905</item>
+    <item index="42">0.0232558</item>
+    <item index="43">0.0378864</item>
+    <item index="44">0.0222222</item>
+    <item index="45">0.0362391</item>
+   </items>
+  </sample>
+  <sample nh="64" index="1">
+   <items>
+    <item index="0">0.51087</item>
+    <item index="1">0.76087</item>
+    <item index="2">0.51087</item>
+    <item index="3">0.630435</item>
+    <item index="4">0.956522</item>
+    <item index="5">0.956522</item>
+    <item index="6">0.913043</item>
+    <item index="7">0.205714</item>
+    <item index="8">0.331429</item>
+    <item index="9">0.331429</item>
+    <item index="10">0.0342857</item>
+    <item index="11">0.48</item>
+    <item index="12">0.502857</item>
+    <item index="13">0.422857</item>
+    <item index="14">0.382857</item>
+    <item index="15">0.108571</item>
+    <item index="16">0.285714</item>
+    <item index="17">0.154286</item>
+    <item index="18">0.154286</item>
+    <item index="19">0.131429</item>
+    <item index="20">0.108571</item>
+    <item index="21">0.108571</item>
+    <item index="22">0.0971429</item>
+    <item index="23">0.0857143</item>
+    <item index="24">0.0628571</item>
+    <item index="25">0.0514286</item>
+    <item index="26">0.0628571</item>
+    <item index="27">0.0514286</item>
+    <item index="28">0.0514286</item>
+    <item index="29">0.0514286</item>
+    <item index="30">0.0514286</item>
+    <item index="31">0.0514286</item>
+    <item index="32">0.0514286</item>
+    <item index="33">0.0514286</item>
+    <item index="34">0.0628571</item>
+    <item index="35">0.08</item>
+    <item index="36">0.205714</item>
+    <item index="37">0.228571</item>
+    <item index="38">0.125714</item>
+    <item index="39">0.131429</item>
+    <item index="40">0.102857</item>
+    <item index="41">0.148571</item>
+    <item index="42">0.16</item>
+    <item index="43">0.0227273</item>
+    <item index="44">0.0370444</item>
+    <item index="45">0.52</item>
+    <item index="46">0.697143</item>
+    <item index="47">0.394286</item>
+    <item index="48">0.0340204</item>
+    <item index="49">0.02</item>
+    <item index="50">0.0326863</item>
+    <item index="51">0.0192308</item>
+    <item index="52">0.211429</item>
+    <item index="53">0.0185185</item>
+    <item index="54">0.0303091</item>
+    <item index="55">0.348571</item>
+    <item index="56">0.394286</item>
+    <item index="57">0.0172414</item>
+    <item index="58">0.525714</item>
+    <item index="59">0.0166667</item>
+    <item index="60">0.645714</item>
+    <item index="61">0.24</item>
+    <item index="62">0.377143</item>
+    <item index="63">0.015625</item>
+   </items>
+  </sample>
+ </samples>
+ <params>
+  <param index="0" name="GEN1_SAMPLE1">7</param>
+  <param index="1" name="GEN1_WIDTH1">2</param>
+  <param index="2" name="GEN1_SCALE1">-0.8</param>
+  <param index="3" name="GEN1_NH1">46</param>
+  <param index="4" name="GEN1_APOD1">0</param>
+  <param index="5" name="GEN1_DETUNE1">0</param>
+  <param index="6" name="GEN1_GLIDE1">0</param>
+  <param index="7" name="GEN1_SAMPLE2">67</param>
+  <param index="8" name="GEN1_WIDTH2">111.9</param>
+  <param index="9" name="GEN1_SCALE2">-1</param>
+  <param index="10" name="GEN1_NH2">64</param>
+  <param index="11" name="GEN1_APOD2">3</param>
+  <param index="12" name="GEN1_DETUNE2">0.1</param>
+  <param index="13" name="GEN1_GLIDE2">0</param>
+  <param index="14" name="GEN1_BALANCE">0.4</param>
+  <param index="15" name="GEN1_PHASE">0</param>
+  <param index="16" name="GEN1_RINGMOD">0</param>
+  <param index="17" name="GEN1_OCTAVE">0</param>
+  <param index="18" name="GEN1_TUNING">0</param>
+  <param index="19" name="GEN1_ENVTIME">0.5</param>
+  <param index="20" name="DCF1_ENABLED">1</param>
+  <param index="21" name="DCF1_CUTOFF">0.1</param>
+  <param index="22" name="DCF1_RESO">0.9</param>
+  <param index="23" name="DCF1_TYPE">2</param>
+  <param index="24" name="DCF1_SLOPE">0</param>
+  <param index="25" name="DCF1_ENVELOPE">-0.6</param>
+  <param index="26" name="DCF1_ATTACK">0</param>
+  <param index="27" name="DCF1_DECAY">0.2</param>
+  <param index="28" name="DCF1_SUSTAIN">0.5</param>
+  <param index="29" name="DCF1_RELEASE">0.5</param>
+  <param index="30" name="LFO1_ENABLED">1</param>
+  <param index="31" name="LFO1_SHAPE">4</param>
+  <param index="32" name="LFO1_WIDTH">1</param>
+  <param index="33" name="LFO1_BPM">180</param>
+  <param index="34" name="LFO1_RATE">0.5</param>
+  <param index="35" name="LFO1_SYNC">0</param>
+  <param index="36" name="LFO1_SWEEP">1</param>
+  <param index="37" name="LFO1_PITCH">0</param>
+  <param index="38" name="LFO1_BALANCE">-0.5</param>
+  <param index="39" name="LFO1_RINGMOD">0</param>
+  <param index="40" name="LFO1_CUTOFF">0.6</param>
+  <param index="41" name="LFO1_RESO">0</param>
+  <param index="42" name="LFO1_PANNING">0</param>
+  <param index="43" name="LFO1_VOLUME">0.2</param>
+  <param index="44" name="LFO1_ATTACK">0.8</param>
+  <param index="45" name="LFO1_DECAY">0.4</param>
+  <param index="46" name="LFO1_SUSTAIN">0.4</param>
+  <param index="47" name="LFO1_RELEASE">0.5</param>
+  <param index="48" name="DCA1_VOLUME">0.7</param>
+  <param index="49" name="DCA1_ATTACK">0</param>
+  <param index="50" name="DCA1_DECAY">0.3</param>
+  <param index="51" name="DCA1_SUSTAIN">0</param>
+  <param index="52" name="DCA1_RELEASE">0.5</param>
+  <param index="53" name="OUT1_WIDTH">-0.2</param>
+  <param index="54" name="OUT1_PANNING">0</param>
+  <param index="55" name="OUT1_FXSEND">1</param>
+  <param index="56" name="OUT1_VOLUME">0.5</param>
+  <param index="57" name="DEF1_PITCHBEND">0.2</param>
+  <param index="58" name="DEF1_MODWHEEL">0.2</param>
+  <param index="59" name="DEF1_PRESSURE">0.2</param>
+  <param index="60" name="DEF1_VELOCITY">0.2</param>
+  <param index="61" name="DEF1_CHANNEL">0</param>
+  <param index="62" name="DEF1_MONO">0</param>
+  <param index="63" name="CHO1_WET">0</param>
+  <param index="64" name="CHO1_DELAY">0.5</param>
+  <param index="65" name="CHO1_FEEDB">0.8</param>
+  <param index="66" name="CHO1_RATE">0.1</param>
+  <param index="67" name="CHO1_MOD">0.5</param>
+  <param index="68" name="FLA1_WET">0.5</param>
+  <param index="69" name="FLA1_DELAY">0.7</param>
+  <param index="70" name="FLA1_FEEDB">0.7</param>
+  <param index="71" name="FLA1_DAFT">1</param>
+  <param index="72" name="PHA1_WET">0</param>
+  <param index="73" name="PHA1_RATE">0.5</param>
+  <param index="74" name="PHA1_FEEDB">0.5</param>
+  <param index="75" name="PHA1_DEPTH">0.5</param>
+  <param index="76" name="PHA1_DAFT">0</param>
+  <param index="77" name="DEL1_WET">0.3</param>
+  <param index="78" name="DEL1_DELAY">0.3</param>
+  <param index="79" name="DEL1_FEEDB">0.6</param>
+  <param index="80" name="DEL1_BPM">180</param>
+  <param index="81" name="REV1_WET">0</param>
+  <param index="82" name="REV1_ROOM">0.3</param>
+  <param index="83" name="REV1_DAMP">0.1</param>
+  <param index="84" name="REV1_FEEDB">0.9</param>
+  <param index="85" name="REV1_WIDTH">-0.6</param>
+  <param index="86" name="DYN1_COMPRESS">0</param>
+  <param index="87" name="DYN1_LIMITER">1</param>
+  <param index="88" name="KEY1_LOW">0</param>
+  <param index="89" name="KEY1_HIGH">127</param>
+ </params>
+</preset>
